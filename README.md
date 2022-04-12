@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ♡ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ♡
 
+
+| Social Media | Link |
+| --- | --- |
+| Blog | <ins>Laura0126.github.io</ins> |
+| Instagram |     |
+| Twitter |     |
