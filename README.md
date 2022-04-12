@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 | Social Media | Link |
 | --- | --- |
-| Blog | <ins>Laura0126.github.io</ins> |
+| Blog | [Kokoa's Blog](Laura0126.github.io) |
 | Instagram |     |
 | Twitter |     |
