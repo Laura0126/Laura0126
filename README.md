@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ♡ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ♡
 
-[![@kokoa_lu.png](:/ad0bfb3b31af45a6940714ef6170ab55)]((https://github.com/Laura0126))
+
 | Social Media | Link |
 | --- | --- |
 | Blog | [Kokoa's Blog](https://laura0126.github.io/) |
