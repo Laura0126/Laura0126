@@ -1,4 +1,4 @@
-### Resume ᐡ｡• · •｡ᐡ 
+### Welcome ᐡ｡• · •｡ᐡ 
 
 <!--
 **Laura0126/Laura0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
